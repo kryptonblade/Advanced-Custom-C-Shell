@@ -1,6 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/76mHqLr5)
+# Advanced-Custom-C-shell
+1. Developed a custom shell in C, implementing 10 core system calls including warp, sleep, peek, seek, pro-clore, fg&bg processes, piping, redirection and signals.
+2. Enhanced the shell with ﬂag support, making it more robust.
+
 # Description
 compiling my program:
-make
-./a.out
-# Assumptions
+1. make
+2. ./a.out
